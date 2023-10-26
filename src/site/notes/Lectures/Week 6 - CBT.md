@@ -3,6 +3,7 @@
 ---
 
 handout:: [Lecture 6](x-devonthink-item://49BBEB65-EC4C-4C93-A5E4-EB6075F19244)
+[Every USEFUL Mac App That I Use - YouTube](https://youtu.be/rW6OpewsT5o?si=83QboeChj2LlRACe)
 # Techniques
 ## Exposure Therapy
 *Pair different feelings with what you supposed to be fear about*
