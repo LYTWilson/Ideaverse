@@ -24,13 +24,13 @@ Your launchpad and home base. That's here. That's **home**.
 	- [[Atlas/Maps/Calendar\|Calendar]]
 	- [[Atlas/Maps/Plan and Review\|Plan and Review]] 
 # Efforts
-| File                                                     | due               |
-| -------------------------------------------------------- | ----------------- |
-| [[Efforts/On/Project 1 of 3\|Project 1 of 3]]         | October 13, 2023  |
-| [[Efforts/On/Drama Presentation\|Drama Presentation]] | November 03, 2023 |
-| [[Efforts/On/Oral presentation\|Oral presentation]]   | November 03, 2023 |
-| [[Efforts/On/Assignment 1\|Assignment 1]]             | November 04, 2023 |
-| [[Efforts/On/Project\|Project]]                       |                   |
+| File                                                   | due               |
+| ------------------------------------------------------ | ----------------- |
+| [[Efforts/On/Project 1 of 3\|Project 1 of 3]]       | October 13, 2023  |
+| [[Efforts/On/Group project\|Group project]]         | October 28, 2023  |
+| [[Efforts/On/Oral presentation\|Oral presentation]] | November 03, 2023 |
+| [[Efforts/On/Assignment 1\|Assignment 1]]           | November 04, 2023 |
+| [[Efforts/On/Project\|Project]]                     |                   |
 
 { .block-language-dataview}
 - *What should I do NOW?*
