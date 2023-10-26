@@ -3,7 +3,6 @@
 ---
 
 handout:: [Lecture 6](x-devonthink-item://49BBEB65-EC4C-4C93-A5E4-EB6075F19244)
-[I'M A RADIO HOST AND HAVE TO SAVE CALLERS FROM A SERIAL KILLER. | Killer Frequency - YouTube](https://www.youtube.com/watch?v=IFN32sk3UGQ&t=879s)
 # Techniques
 ## Exposure Therapy
 *Pair different feelings with what you supposed to be fear about*
