@@ -8,13 +8,14 @@ Your launchpad and home base. That's here. That's **home**.
 	- [[Atlas/Maps/Add\|Add]]
 	- [[Atlas/Maps/Relate\|Relate]]
 - *My Compass*
+	- [[Spaces/College/My Uni Courses\|My Uni Courses]]
 	- [[Atlas/Maps/Life Map\|Life Map]]
 	- [[Atlas/Maps/Thinking Map\|Thinking Map]]
 	- [[Atlas/Maps/Concepts Map\|Concepts Map]]
-- [[+/My Modules\|My Modules]]
-	- [[Atlas/Modules/PSY2009 Personality Psychology\|PSY2009 Personality Psychology]]
-	- [[Atlas/Modules/PSY3003 Child and Adolescent Counselling\|PSY3003 Child and Adolescent Counselling]]
-	- [[Atlas/Modules/PSY3011 Positive Psychology\|PSY3011 Positive Psychology]]
+- *My Modules*
+	- [[Spaces/College/Uni Courses/PSY2009 Personality Psychology\|PSY2009 Personality Psychology]]
+	- [[Spaces/College/Uni Courses/PSY3003 Child and Adolescent Counselling\|PSY3003 Child and Adolescent Counselling]]
+	- [[Spaces/College/Uni Courses/PSY3011 Positive Psychology\|PSY3011 Positive Psychology]]
 # Calendar
 - *When is on my mind?*
 	- [[Calendar/Logs/Logs\|Logs]]
