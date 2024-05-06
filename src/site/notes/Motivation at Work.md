@@ -4,7 +4,7 @@
 
 - Links
 	- [[MAPS/Modules/Work and Organisational Psychology\|Work and Organisational Psychology]]
-# Framework
+# Framework 
 Work motivation is a set of energetic forces that originated from within or beyond an individual.
 
 Work motivation is the process of the intenisty, direction, and persistent effort towards the goal.
@@ -28,3 +28,36 @@ Intrinisic is about the job or the duties.
 Extrinisic is about the related aspects but not the job.
 ## Comparison
 ![image](https://pub-15a8beda5d8c4294821c9fa24ef91a9f.r2.dev/attachments/3eecc751f7db2c7ca97b06817c7765e0.jpeg)
+# Motivation as a trait
+## Big Five
+Positive correlation – Extraversion, Conscientious
+Negative correlation – Neuroticism
+Inconsistent – Aggreableness and openness 
+## Core self evaluations
+- self-esteem
+- self-efficacy
+- locus of control
+## Self-monitoring
+***High self-monitors*** tend to control images that they present to better fit with the social climate around them.
+
+***Low self-monitors*** tend to be true to themselves and display more consistent behavior across various social contexts.
+
+**Self Monitoring Scale** was shortened from 25 items to 18 items is used (Gangestad & Snyder, 1985). 
+
+Self-monitoring was shown to have a positive relationship with job performance (Day, Schleicher, Unckless & Hiller, 2002).
+# Motivation as cognition
+## Goal orientations
+- **Performance-prove goal orientation (PGO)**: One seeks to pursue and maintain positive judgement of their ability.
+- **Performance-avoid goal orientation (AGO)**: One seeks to avoid negative judgement of their ability.
+- **Learning goal orientation (LGO)**: One seeks to increase their ability or master new tasks.
+
+***Mechanic structures*** are places where task differentiates a lot, highly formalized and centralized.
+
+PGO and LGO is negatively associated.
+
+***Organic Structures*** are places that are fluid and decentralized, no formally defined task.
+
+PGO and LGO is positively associated.
+
+
+
