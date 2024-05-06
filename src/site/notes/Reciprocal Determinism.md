@@ -11,7 +11,7 @@ reference::[Albert Bandura's Social Cognitive Theory](https://www.simplypsycholo
 > 
 Reciprocal determinism is the central concept of social cognitive theory and refers to the dynamic and reciprocal interaction of people — individuals with a set of learned experiences — the environment, external social context, and behavior — the response to stimuli to achieve goals.
 
-Its main tenet is that people seek to develop a sense of agency and exert control over the important events in their lives.
+Its main tenet is that people seek to develop a sense of agency and exert control over the important events in their lives. 
 
 This sense of agency and control is affected by factors such as self-efficacy, outcome expectations, goals, and self-evaluation (Bandura, 1989).
 
