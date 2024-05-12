@@ -16,16 +16,15 @@ This affects two components, satisfaction and commitment in the relationship.
 
 Comparing CL and perceive rewards determines the satisfaction level.
 Comparing CLalt and perceive rewards determines the commitment level.
-
 # Power over the partner
 This aspect of the theory focuses on the power and influence partners have over one another, and how they respond to one another when their interests either conflict or overlap.
 
-Fate control is when one takes control and the partner has almost no control at all, a surprise party would be an example.
+**Fate control** is when one takes control and the partner has almost no control at all, a surprise party would be an example.
 
-Behaviour control, or mutual behaviour control is when both negotiates about who will do what.
+**Behaviour control**, or mutual behaviour control is when both negotiates about who will do what.
 
 # The ‘together’ mindset
 Interpersonal attributions are attributes, such as trust, commitment, and attitudes toward one’s partner. 
 
-Greater trust, commitment, and more positive partner attitudes facilitate an automatic shift from a selfish mindset to a relationship or partner-centered orientation. 
+Greater trust, commitment, and more positive partner attitudes facilitate an automatic shift from a selfish mindset **to a relationship or partner-centered orientation**. 
 
