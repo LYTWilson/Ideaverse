@@ -8,7 +8,7 @@
 # Reason
 Sexual reproduction **shuffles the genetic deck**, producing **variability** across species, which facilitates the evolution of adaptations. Thus, some argue that the process of evolution itself may have **evolved**.
 # How this relates to the evolutionary theory?
-- Survivability
+- Increases survivability
 	- variability in immune systems
 		- resist parasites and pathogens
 
