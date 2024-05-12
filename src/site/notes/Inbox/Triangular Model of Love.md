@@ -8,23 +8,23 @@
 ![image](https://pub-15a8beda5d8c4294821c9fa24ef91a9f.r2.dev/attachments/dfd62522d4fb721d60e648e6d90928a7.png)
 ## Three descriptions based on one component
 - *Liking*: 
-	- + intimacy 
-	- - passion 
-	- - commitment  
+	- (+) intimacy 
+	- (-) passion 
+	- (-) commitment  
 	- feelings of closeness and warmth
 	- are typically experienced in friendships.
 - *Infatuation*
-	- + Passion
-	- - intimacy
-	- - commitment
+	- (+) Passion
+	- (-) intimacy
+	- (-) commitment
 	- often experienced as “love at first sight”
 	- strong feelings of passionate arousal
 		- increased heartbeat
 		- sexual arousal
 - *Empty Love*
-	- + Commitment
-	- - Intimacy
-	- - Passion
+	- (+) Commitment
+	- (-) Intimacy
+	- (-) Passion
 	- not uncommon in relation- ships that have lasted for many years
 	- experience empty love in the initial stages of arranged marriages
 		- there is pressure for the partners to be committed to the marriage 
