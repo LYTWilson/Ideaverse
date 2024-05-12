@@ -7,7 +7,7 @@
 # Framework
 ![image](https://pub-15a8beda5d8c4294821c9fa24ef91a9f.r2.dev/attachments/dfd62522d4fb721d60e648e6d90928a7.png)
 ## Three descriptions based on one component
-- *Liking*: 
+- *Liking*
 	- (+) intimacy 
 	- (-) passion 
 	- (-) commitment  
