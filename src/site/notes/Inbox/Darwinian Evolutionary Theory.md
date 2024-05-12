@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/inbox/darwinian-evolutionary-theory/","tags":["note"]}
 ---
 
-
-
+links: [[Inbox/Theories in Social Psychology and Evolutionary Psychology in relationships\|Theories in Social Psychology and Evolutionary Psychology in relationships]]
 # The three elements to species
 - The Darwinian engine of evolution involves three core elements
 	- Variation 
